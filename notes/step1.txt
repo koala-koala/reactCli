@@ -1,0 +1,8 @@
+使用到的插件：https://zhuanlan.zhihu.com/p/37929333
+1、commander CLI常用开发框架，可以解析命令和参数
+2、chalk 终端文字加颜色组件
+3、inquirer 命令行交互信息收集组件
+4、download-git-repo 下载提取git仓库，用于下载项目模板
+5、handlebars 解析模板
+6、ora 加loading
+7、log-symbols 加成功、错误等标志
